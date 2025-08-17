@@ -250,7 +250,7 @@ cs-499-capstone/
 
 **Email:** Ifeoluwaadewoyin90@gmail.com   
 **GitHub:** [ifeoluwa90.github.io](https://ifeoluwa90.github.io/)  
-**Portfolio:** [ifeoluwa90.github.io](https://ifeoluwa90.github.io/)
+**Portfolio:** [CS 499 Capstone Portfolio]([https://ifeoluwa90.github.io/](https://github.com/Ifeoluwa90/CS-499/blob/main/README.md))
 
 ---
 

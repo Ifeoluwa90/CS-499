@@ -249,7 +249,7 @@ cs-499-capstone/
 ## 📞 Professional Contact
 
 **Email:** Ifeoluwaadewoyin90@gmail.com   
-**GitHub:** [github.com/Ifeoluwa90]  
+**GitHub:** [ifeoluwa90.github.io](https://ifeoluwa90.github.io/)  
 **Portfolio:** [ifeoluwa90.github.io](https://ifeoluwa90.github.io/)
 
 ---

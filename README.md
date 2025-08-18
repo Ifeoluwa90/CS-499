@@ -2,7 +2,7 @@
 # CS 499 Computer Science Capstone Portfolio
 **Ifeoluwa Adewoyin - Cybersecurity Specialist**
 
-[![GitHub Pages](https://img.shields.io/badge/Portfolio-Live%20Demo-blue?style=for-the-badge)](https://ifeoluwa90.github.io/)
+[![GitHub Pages]([https://img.shields.io/badge/Portfolio-Live%20Demo-blue?style=for-the-badge)](https://ifeoluwa90.github.io/](https://github.com/Ifeoluwa90))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
 
 ---

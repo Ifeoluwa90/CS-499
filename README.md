@@ -3,7 +3,7 @@
 **Ifeoluwa Adewoyin - Cybersecurity Specialist**
 
 [![GitHub Pages](https://img.shields.io/badge/Portfolio-Live%20Demo-blue?style=for-the-badge)](https://github.com/Ifeoluwa90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ifeoluwaadewoyin/)
 
 ---
 

@@ -23,7 +23,7 @@ Computer Science graduate specializing in **cybersecurity** with expertise in en
 | **Mobile Security** | Android app with enterprise-grade security | [📱 Original Code](https://github.com/Ifeoluwa90/CS-499/tree/main/Basic%20Inventory%20management) • [🔒 Enhanced Code](https://github.com/Ifeoluwa90/CS-499/tree/main/InventoryManagementApp_CS%20499) • [📄 Narrative](documents/software-engineering-narrative.pdf) |
 | **Intelligent Algorithms** | Web dashboard with ML and optimization | [🌐 Original Code(place holder)](algorithms/original/) • [🧠 Enhanced Code](algorithms/enhanced/) • [📄 Narrative](documents/algorithms-narrative.pdf) |
 | **Distributed Database** | Gaming system with multi-database security | [🎮 Original Code(place holder)](databases/original/) • [🏗️ Enhanced Code](databases/enhanced/) • [📄 Narrative](databases/narrative.pdf) |
-| **Self-Assessment** | Professional reflection and career preparation | [📋 Full Document(place holder)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FIfeoluwa90%2FCS-499%2Frefs%2Fheads%2Fmain%2FDocuments%2FCS%2520499%2520Module%2520One%2520Assignment%2520Template.docx&wdOrigin=BROWSELINK) |
+| **Self-Assessment** | Professional reflection and career preparation | [📋 Full Document](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FIfeoluwa90%2FCS-499%2Frefs%2Fheads%2Fmain%2FDocuments%2FCS%2520499%2520Module%2520One%2520Assignment%2520Template.docx&wdOrigin=BROWSELINK) |
 
 ---
 

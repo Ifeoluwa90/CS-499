@@ -19,7 +19,7 @@ Computer Science graduate specializing in **cybersecurity** with expertise in en
 
 | Section | Description | Links |
 |---------|-------------|-------|
-| **Code Review** | 30-minute video walkthrough of all artifacts | [📺 Watch Video(place holder)](https://www.dropbox.com/scl/fi/77igc8ewl7scucqnwsgy2/Video-review.mp4?rlkey=w516r0s8lt51dfnera6enf7p5&st=e4ulhdw0&dl=0) |
+| **Code Review** | 30-minute video walkthrough of all artifacts | [📺 Watch Video](https://www.dropbox.com/scl/fi/77igc8ewl7scucqnwsgy2/Video-review.mp4?rlkey=w516r0s8lt51dfnera6enf7p5&st=e4ulhdw0&dl=0) |
 | **Mobile Security** | Android app with enterprise-grade security | [📱 Original Code(place holder)](software-engineering/original/) • [🔒 Enhanced Code](software-engineering/enhanced/) • [📄 Narrative](documents/software-engineering-narrative.pdf) |
 | **Intelligent Algorithms** | Web dashboard with ML and optimization | [🌐 Original Code(place holder)](algorithms/original/) • [🧠 Enhanced Code](algorithms/enhanced/) • [📄 Narrative](documents/algorithms-narrative.pdf) |
 | **Distributed Database** | Gaming system with multi-database security | [🎮 Original Code(place holder)](databases/original/) • [🏗️ Enhanced Code](databases/enhanced/) • [📄 Narrative](databases/narrative.pdf) |

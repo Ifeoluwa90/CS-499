@@ -19,11 +19,11 @@ Computer Science graduate specializing in **cybersecurity** with expertise in en
 
 | Section | Description | Links |
 |---------|-------------|-------|
-| **Code Review** | 30-minute video walkthrough of all artifacts | [📺 Watch Video](link-to-your-video) |
-| **Mobile Security** | Android app with enterprise-grade security | [📱 Original Code](software-engineering/original/) • [🔒 Enhanced Code](software-engineering/enhanced/) • [📄 Narrative](documents/software-engineering-narrative.pdf) |
-| **Intelligent Algorithms** | Web dashboard with ML and optimization | [🌐 Original Code](algorithms/original/) • [🧠 Enhanced Code](algorithms/enhanced/) • [📄 Narrative](documents/algorithms-narrative.pdf) |
-| **Distributed Database** | Gaming system with multi-database security | [🎮 Original Code](databases/original/) • [🏗️ Enhanced Code](databases/enhanced/) • [📄 Narrative](databases/narrative.pdf) |
-| **Self-Assessment** | Professional reflection and career preparation | [📋 Full Document](documents/professional-self-assessment.pdf) |
+| **Code Review** | 30-minute video walkthrough of all artifacts | [📺 Watch Video(place holder)](link-to-your-video) |
+| **Mobile Security** | Android app with enterprise-grade security | [📱 Original Code(place holder)](software-engineering/original/) • [🔒 Enhanced Code](software-engineering/enhanced/) • [📄 Narrative](documents/software-engineering-narrative.pdf) |
+| **Intelligent Algorithms** | Web dashboard with ML and optimization | [🌐 Original Code(place holder)](algorithms/original/) • [🧠 Enhanced Code](algorithms/enhanced/) • [📄 Narrative](documents/algorithms-narrative.pdf) |
+| **Distributed Database** | Gaming system with multi-database security | [🎮 Original Code(place holder)](databases/original/) • [🏗️ Enhanced Code](databases/enhanced/) • [📄 Narrative](databases/narrative.pdf) |
+| **Self-Assessment** | Professional reflection and career preparation | [📋 Full Document(place holder)](documents/professional-self-assessment.pdf) |
 
 ---
 
